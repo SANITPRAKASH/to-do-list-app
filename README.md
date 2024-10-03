@@ -10,25 +10,41 @@
 
 
 Description
+
 The ToDo List App helps users manage their daily tasks by adding, removing, and marking them as complete. The clean and simple interface ensures a smooth user experience, with the ability to set reminders for each task.
 
 Features
+
 Add Tasks: Users can add new tasks to their to-do list.
+
 Mark as Complete: Users can mark tasks as complete when finished.
+
 Delete Tasks: Remove tasks from the list once they are no longer needed.
+
 Reminders: Set reminders for tasks, ensuring no task is missed.
+
 Responsive Design: Works well across desktop and mobile devices.
+
 Technologies Used
+
 React: Frontend framework for building the user interface.
+
 JavaScript (ES6+): Handles task management and dynamic updates.
+
 HTML5: Markup for structure.
+
 CSS3: Styles the app with a modern and clean design.
+
 Getting Started
+
 To run the ToDo List App locally, follow these steps:
 
 Prerequisites
+
 Make sure you have Node.js and npm installed.
+
 Installation
+
 Clone the repository:
 
 bash
